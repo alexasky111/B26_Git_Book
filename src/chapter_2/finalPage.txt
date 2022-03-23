@@ -1,0 +1,5 @@
+
+So far we learnt git
+
+flow for commit to push
+flow from remote to local repository
